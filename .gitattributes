@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Normalize EOL for all files that Git considers text files.
+* text=auto eol=lf
+*.md text eol=crlf
+
+# Only export the gote_edit folder.
+/**        export-ignore
+/gote_edit    !export-ignore
+/gote_edit/** !export-ignore
