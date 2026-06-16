@@ -33,8 +33,15 @@ Screenshots are from the example project GotePad.
 ## 使用方式 Usage
 
 1. 将 gote_edit 文件夹添加到您的Godot项目中。Add the **gote_edit** folder to your Godot project.
-
 2. 将 GoteEdit.tscn 添加到场景树中。Add **GoteEdit.tscn** to the scene tree.
+
+## 项目链接 Links
+
+[GoteEdit - Godot Asset Store](https://store.godotengine.org/asset/brothershort-shesi-studio/goteedit/)
+
+[GoteEdit - GitHub](https://github.com/BrotherShort/GoteEdit)
+
+[GotePad - GitHub](https://github.com/BrotherShort/GotePad) （范例项目）(Example project)
 
 ## 授权协议 License
 
